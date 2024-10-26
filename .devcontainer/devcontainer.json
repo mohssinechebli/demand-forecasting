@@ -1,0 +1,8 @@
+{
+    "name": "ML Environment",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:3.10", 
+    "postCreateCommand": "pip install mlflow pyspark",
+    "settings": {
+      "python.defaultInterpreterPath": "/usr/local/bin/python"
+    }
+  }
