@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/demand-forecasting/mlruns/797232079853324974/64fdb2fc6eb041dfb63a52262891e8f0/artifacts
+deleted_time: 1729947143684
+end_time: 1729946733742
+entry_point_name: ''
+experiment_id: '797232079853324974'
+lifecycle_stage: deleted
+run_id: 64fdb2fc6eb041dfb63a52262891e8f0
+run_name: RF_maxDepth_10_numTrees_50
+run_uuid: 64fdb2fc6eb041dfb63a52262891e8f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729946655748
+status: 3
+tags: []
+user_id: codespace

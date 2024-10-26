@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/demand-forecasting/mlruns/375558991827334891/77d7db3cd15a4eb6850cbdc954e2a496/artifacts
+end_time: 1729947447462
+entry_point_name: ''
+experiment_id: '375558991827334891'
+lifecycle_stage: active
+run_id: 77d7db3cd15a4eb6850cbdc954e2a496
+run_name: maxDepth_5_numTrees_50
+run_uuid: 77d7db3cd15a4eb6850cbdc954e2a496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729947303775
+status: 3
+tags: []
+user_id: codespace

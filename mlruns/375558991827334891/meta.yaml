@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/demand-forecasting/mlruns/375558991827334891
+creation_time: 1729947220236
+experiment_id: '375558991827334891'
+last_update_time: 1729947220236
+lifecycle_stage: active
+name: demand_forecasting_random_forest
