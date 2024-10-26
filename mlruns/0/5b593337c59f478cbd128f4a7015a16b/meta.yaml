@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/demand-forecasting/mlruns/0/5b593337c59f478cbd128f4a7015a16b/artifacts
+deleted_time: 1729947154847
+end_time: 1729945902513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5b593337c59f478cbd128f4a7015a16b
+run_name: capricious-mule-110
+run_uuid: 5b593337c59f478cbd128f4a7015a16b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729945835902
+status: 3
+tags: []
+user_id: codespace

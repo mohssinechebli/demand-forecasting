@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729946625675
+current_stage: None
+description: ''
+last_updated_timestamp: 1729946625675
+name: baseline_random_forest
+run_id: 7a1c85473d7142d0a583722cc6a0133d
+run_link: ''
+source: file:///workspaces/demand-forecasting/mlruns/0/7a1c85473d7142d0a583722cc6a0133d/artifacts/RandomForestModel
+status: READY
+status_message: null
+storage_location: file:///workspaces/demand-forecasting/mlruns/0/7a1c85473d7142d0a583722cc6a0133d/artifacts/RandomForestModel
+user_id: null
+version: 1

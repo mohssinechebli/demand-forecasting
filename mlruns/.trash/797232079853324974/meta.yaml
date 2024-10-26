@@ -1,0 +1,7 @@
+artifact_location: file:///workspaces/demand-forecasting/mlruns/797232079853324974
+creation_time: 1729946224383
+experiment_id: '797232079853324974'
+last_update_time: 1729947143684
+lifecycle_stage: deleted
+name: demand_forecasting_random_forest_experiment
+tags: {}
